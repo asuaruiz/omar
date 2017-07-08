@@ -36,17 +36,17 @@ $(window).scroll(function() {
   } else {
     $(".s7").fadeOut();
   }
-  if ($(document).scrollTop() > 6500) {
+  if ($(document).scrollTop() > 6000) {
     $(".s8").fadeIn();
   } else {
     $(".s8").fadeOut();
   }
-  if ($(document).scrollTop() > 7800) {
+  if ($(document).scrollTop() > 7200) {
     $(".s9").fadeIn();
   } else {
     $(".s9").fadeOut();
   }
-  if ($(document).scrollTop() > 8200) {
+  if ($(document).scrollTop() > 7600) {
     $(".s10").fadeIn();
   } else {
     $(".s10").fadeOut();
